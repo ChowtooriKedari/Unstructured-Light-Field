@@ -1,0 +1,28 @@
+{
+    "batch_1": {
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "images": {
+            "camera_1_image_1": "Images/Camera1/image_1.jpg",
+            "camera_2_image_1": "Images/Camera2/image_1.jpg",
+            "camera_3_image_1": "Images/Camera3/image_1.jpg",
+            "camera_4_image_1": "Images/Camera4/image_1.jpg"
+        }
+    },
+    "batch_2": {
+        "position": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "images": {
+            "camera_1_image_2": "Images/Camera1/image_2.jpg",
+            "camera_2_image_2": "Images/Camera2/image_2.jpg",
+            "camera_3_image_2": "Images/Camera3/image_2.jpg",
+            "camera_4_image_2": "Images/Camera4/image_2.jpg"
+        }
+    }
+}
